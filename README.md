@@ -1,15 +1,17 @@
-<h1 align="center">🚀 Anshul Yadav 🚀</h1>
+<h1 align="center">Anshul Yadav </h1>
 
 <h3 align="center">
 Full Stack Developer • React Native Developer • Django Backend Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+Native+Developer;Django+Backend+Engineer;API+%26+CRM+Developer;DevOps+Learner;Building+Scalable+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React+Native+Developer;Django+Backend+Engineer;REST+API+%26+CRM+Developer;DevOps+Learner;Building+Scalable+Applications+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshustackcraft&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=anshustackcraft&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/anshustackcraft?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/anshustackcraft?style=for-the-badge" />
 </p>
 
 ---
@@ -17,31 +19,55 @@ Full Stack Developer • React Native Developer • Django Backend Engineer
 # 👨‍💻 About Me
 
 ```yaml
-name: Anshul Yadav
-role: Full Stack & Mobile App Developer
-location: Gurugram, India
-experience: Internship + 20+ Projects
-backend: Django, DRF, Python
-frontend: React.js, Tailwind CSS
-mobile: React Native, NativeWind
-learning: DevOps, System Architecture, Scaling
+Name: Anshul Yadav
+Role: Full Stack & Mobile App Developer
+Location: Gurugram, India
+
+Frontend:
+  - React.js
+  - JavaScript
+  - Tailwind CSS
+
+Mobile:
+  - React Native
+  - NativeWind
+
+Backend:
+  - Python
+  - Django
+  - Django REST Framework
+
+Database:
+  - PostgreSQL
+  - MySQL
+  - Redis
+
+DevOps:
+  - Docker
+  - VPS Deployment
+  - Git/GitHub
+
+Focus:
+  - Scalable Applications
+  - API Development
+  - System Architecture
 ```
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/anshustackcraft">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://anshu-stackcraft-my-website-fronten.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="mailto:anshul.stackcraft@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="mailto:anshul.stackcraft@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://anshu-stackcraft-my-website-fronten.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
@@ -49,29 +75,8 @@ learning: DevOps, System Architecture, Scaling
 
 # ⚡ Tech Stack
 
-## 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" />
-</p>
-
-## 📱 Mobile App Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-## ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
-</p>
-
-## 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-</p>
-
-## 🚀 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite,python,django,nodejs,postgres,mysql,redis,docker,git,github,linux,vscode,postman" />
 </p>
 
 ---
@@ -79,58 +84,81 @@ learning: DevOps, System Architecture, Scaling
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshustackcraft&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshustackcraft&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshustackcraft&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anshustackcraft&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=anshustackcraft&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
-
----
-
-# 🏆 Achievements
-
-✅ Successfully delivered 20+ Web & Mobile Projects  
-✅ Internship Experience in Full Stack Development  
-✅ Built CRM & REST API Systems  
-✅ Developed React Native Mobile Apps  
-✅ Backend API & Authentication Systems  
-✅ Learning DevOps & Deployment Architecture  
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshustackcraft&theme=tokyo-night&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshustackcraft&theme=tokyo-night&hide_border=true&radius=16" />
 </p>
 
 ---
 
-# 💡 Current Focus
+# 🏆 GitHub Trophies
 
-- 📱 React Native Applications
-- ⚙️ Django Backend Systems
-- 🔐 Authentication & APIs
-- ☁️ VPS & DevOps Deployment
-- 🧠 System Design & LLD
-- 🚀 Scalable App Architecture
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshustackcraft&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-# 🧑‍💻 Fun Fact
+# 🚀 Featured Skills
 
-```js
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-React_Native-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-REST_API-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DevOps-Docker-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+# 📌 Achievements
+
+✅ Completed 20+ Web & Mobile Projects  
+✅ Internship Experience in Full Stack Development  
+✅ Built CRM & Backend Systems  
+✅ Developed React Native Mobile Apps  
+✅ REST API & Authentication Systems  
+✅ Learning DevOps & Scalable Architecture  
+
+---
+
+# 📱 Current Focus
+
+```txt
+⚡ React Native Applications
+⚡ Django Backend Architecture
+⚡ API & Authentication Systems
+⚡ VPS Deployment & DevOps
+⚡ System Design & LLD
+⚡ Scalable Full Stack Apps
+```
+
+---
+
+# 💻 Coding Life
+
+```javascript
 while(alive){
+   eat();
+   sleep();
    code();
-   build();
-   learn();
+   buildProjects();
    repeat();
 }
 ```
